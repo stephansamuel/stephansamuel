@@ -118,4 +118,6 @@ would be nice to be able to do everything on Windows too.
    another Login (under Passwords) with your info.
 
 At this point, Linux should be automatically notified by `git` when there's an
-auth challenge and serve your token.
+auth challenge and serve your token. VSCode should also run transparently with
+the same mechanism.
+
