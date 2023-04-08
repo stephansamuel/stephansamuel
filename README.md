@@ -11,5 +11,5 @@ You can click the Preview link to take a look at your changes.
 
 ## Directory
 
-1. [Pass-through authentication for GitHub](./Authenticating-With-GitHub-Securely.md)
+1. [Pass-through authentication for GitHub](./Authenticating-With-GitHub-Securely.md#steps-to-follow-tldr)
    for an Ubuntu desktop environment.
